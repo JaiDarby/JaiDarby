@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JaiDarby
 - 👀 I’m interested in programming, anime, and video games.
-- 🌱 I’m currently learning HTML, CSS, and React.
+- 🌱 I’m currently learning TensorFlow and React
 - The languages I'm well verse in are Python and C++
-- Other languages I'm familiar with are Swift and JavaScript.
+- Other languages I'm familiar with are Swift and JavaScript, HTML, and CSS.
 
 <!---
 JaiDarby/JaiDarby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
